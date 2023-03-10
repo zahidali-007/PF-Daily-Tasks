@@ -1,4 +1,4 @@
-# Create a function students which takes three numbers total_students, no.of students from bio, and number of students from Math.
+# Create a function students which takes three numbers total_students, no.of students from bio, and number of students from Math
 # 1. Calculate the number of students without math and bio
 # 2. Calculate the number of students with math and bio
 
