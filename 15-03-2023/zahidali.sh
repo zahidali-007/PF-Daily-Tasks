@@ -1,19 +1,19 @@
 # Prompt user for directory path
-read -p "Enter the directory path to be monitored: " dir_path
+read -p "Enter the directory path: " dir_path
 
 # Check if directory exists
 if [ ! -d "$dir_path" ]; then
-    echo "Error: The directory path entered does not exist."
+    echo "The directory path entered does not exist."
     exit 1
 fi
 
 # Prompt user for regular expression pattern
 while true; do
-    read -p "Enter a regular expression pattern to match the file names to be monitored: " pattern
+    read -p "Enter a regular expression pattern to match the file names: " pattern
     if ! grep -qP "$pattern" <<< ""; then
         break
     else
-        echo "Error: The regular expression pattern entered is not valid. Please try again."
+        echo "The regular expression pattern entered is not valid. Please try again."
     fi
 done
 
