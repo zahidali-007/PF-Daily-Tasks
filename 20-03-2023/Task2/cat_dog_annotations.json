@@ -1,0 +1,238 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "class",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": 18,
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "via_project_18Oct2022_11h49m"
+        }
+    },
+    "_via_img_metadata": {
+        "1.jpeg45602": {
+            "filename": "1.jpeg",
+            "size": 45602,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 284,
+                        "y": 27,
+                        "width": 365,
+                        "height": 478
+                    },
+                    "region_attributes": {
+                        "class": {
+                            "dog": true
+                        }
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "2.jpeg4669": {
+            "filename": "2.jpeg",
+            "size": 4669,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 6,
+                        "y": 39,
+                        "width": 150,
+                        "height": 107
+                    },
+                    "region_attributes": {
+                        "class": {
+                            "dog": true
+                        }
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 160,
+                        "y": 77,
+                        "width": 99,
+                        "height": 65
+                    },
+                    "region_attributes": {
+                        "class": {
+                            "cat": true
+                        }
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "3.jpeg6828": {
+            "filename": "3.jpeg",
+            "size": 6828,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 57,
+                        "y": 3,
+                        "width": 186,
+                        "height": 141
+                    },
+                    "region_attributes": {
+                        "class": {
+                            "cat": true
+                        }
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "4.jpeg198685": {
+            "filename": "4.jpeg",
+            "size": 198685,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 85,
+                        "y": 307,
+                        "width": 830,
+                        "height": 1442
+                    },
+                    "region_attributes": {
+                        "class": {
+                            "cat": true
+                        }
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "5.jpeg54509": {
+            "filename": "5.jpeg",
+            "size": 54509,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 33,
+                        "y": 65,
+                        "width": 735,
+                        "height": 738
+                    },
+                    "region_attributes": {
+                        "class": {
+                            "dog": true
+                        }
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "6.jpeg60092": {
+            "filename": "6.jpeg",
+            "size": 60092,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 89,
+                        "y": 55,
+                        "width": 140,
+                        "height": 190
+                    },
+                    "region_attributes": {
+                        "class": {
+                            "dog": true
+                        }
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 242,
+                        "y": 142,
+                        "width": 167,
+                        "height": 115
+                    },
+                    "region_attributes": {
+                        "class": {
+                            "cat": true
+                        }
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "7.jpeg394361": {
+            "filename": "7.jpeg",
+            "size": 394361,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 612,
+                        "y": 192,
+                        "width": 269,
+                        "height": 234
+                    },
+                    "region_attributes": {
+                        "class": {
+                            "dog": true
+                        }
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 321,
+                        "y": 252,
+                        "width": 267,
+                        "height": 162
+                    },
+                    "region_attributes": {
+                        "class": {
+                            "cat": true
+                        }
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "class": {
+                "type": "checkbox",
+                "description": "",
+                "options": {
+                    "\"\"": "",
+                    "cat": "",
+                    "dog": ""
+                },
+                "default_options": {}
+            }
+        },
+        "file": {}
+    }
+}
